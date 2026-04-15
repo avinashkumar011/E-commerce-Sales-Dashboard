@@ -14,4 +14,4 @@ This project analyzes store sales data using Excel.
 - Amazon is highest sales channel
 
 ## 📸 Dashboard Preview
-(Add your screenshot here)
+(Screenshot 2026-04-15 101233.png)
