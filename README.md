@@ -1,4 +1,4 @@
-# Vrinda Store Data Analysis Dashboard
+# E-commerce Sales Dashboard
 
 ## 📊 Project Overview
 This project analyzes store sales data using Excel.
