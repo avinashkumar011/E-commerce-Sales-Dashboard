@@ -13,5 +13,3 @@ This project analyzes store sales data using Excel.
 - Top states: Maharashtra, Karnataka
 - Amazon is highest sales channel
 
-# 📸 Dashboard Preview
-![Uploading Screenshot 2026-04-15 101233.png…]()
